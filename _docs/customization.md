@@ -3,6 +3,8 @@ title: Customization
 permalink: /docs/customization/
 ---
 
+Test updated by Friday morning.
+
 This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/).
 You can create your own theme by writing your own `sass` files.
 
